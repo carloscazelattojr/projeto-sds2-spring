@@ -10,7 +10,7 @@ Projeto desenvolvido em Spring Boot/Java.
 
 ## Tecnologia
 
-`Java` `Spring Boot` `H2` `PostgreSQL`
+`Java` `Spring Boot` `H2` `PostgreSQL` `Maven` `Heroku` 
 
 
 ## Checklist
