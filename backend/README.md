@@ -52,6 +52,10 @@ git subtree push --prefix backend heroku main
 ```
 
 
+Heroku App: https://sds2-dsdelivery-cjr.herokuapp.com/
+
+
+
 ## Modelo Visão Camadas
 
 
