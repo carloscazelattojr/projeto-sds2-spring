@@ -11,17 +11,17 @@ Projeto desenvolvido em ReactJS
 `Node` `ReactJS`
 
 ## Dependências
+
 ```
 npm install react-router-dom
 npm install @types/react-router-dom --dev
 
 npm install axios
-npm install moment  (Manipulação de datas)
-npm install apexcharts
-npm install react-apexcharts
-
 
 ```
+
+
+https://reactrouter.com/web <br>
 
 
 ## Chek-List Passo-a-Passo até o deploy
