@@ -1,11 +1,6 @@
 # Bootcamp: Semana Spring React/Java SDS2
 
-Projeto DSDelivery
-
-
-## Back-End
-
-Projeto desenvolvido em Spring Boot/Java.
+Projeto DSDelivery: Projeto desenvolvido em Spring Boot/Java.
 
 
 ## Tecnologia
@@ -74,4 +69,12 @@ Heroku App: https://sds2-dsdelivery-cjr.herokuapp.com/
 
 
 
+### Criação do Banco de dados PostgreSQL (Perfil DEV)
+
+1. Crie o database: dsdelivery
+2. Execute o script: [Create.SQL](https://github.com/carlosjunior1983/projeto-sds2-spring/blob/main/backend/create.sql)
+3. Configure seu profile para Dev.
+
+
+<br>
 Créditos: DevSuperior/SDS2

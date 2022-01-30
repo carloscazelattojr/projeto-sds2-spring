@@ -12,11 +12,5 @@ Tecnologias utilizdas: `Java` `Spring` `H2` `PostgreSQL` `Maven` `Heroku Postgre
 
 Tecnologias utilizdas: `ReactJS` 
 
-
- 
- 
- 
-
-
 <br>
 Créditos: DevSuperior/SDS2
